@@ -1,6 +1,6 @@
-# CTAppTemplate
+# testCT
 
-Documentation for [CTAppTemplate](https://github.com/control-toolbox/CTAppTemplate.jl).
+Documentation for [testCT](https://github.com/remydutto/testCT.jl).
 
 ## Reproducibility
 

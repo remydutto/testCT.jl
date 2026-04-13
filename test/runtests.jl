@@ -1,9 +1,9 @@
 using Test
 using Aqua
-using CTAppTemplate
+using testCT
 
 #
-@testset verbose = true showtiming = true "CTAppTemplate tests" begin
+@testset verbose = true showtiming = true "testCT tests" begin
     for name in (:aqua, :default)
         @testset "$(name)" begin
             test_name = Symbol(:test_, name)

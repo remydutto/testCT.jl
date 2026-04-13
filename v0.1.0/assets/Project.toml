@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+testCT = "d8a9aea3-1330-4fd6-b235-f86bb970d021"
+
+[compat]
+Documenter = "1"
